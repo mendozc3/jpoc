@@ -8,4 +8,4 @@
     ios_command:
       host: '{{ inventory_hostname }}'
       commands:
-        - show commands
+        - show version
